@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Football Apps</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favourites</string>
+    <string name="matches">Matches</string>
+    <string name="search">Search</string>
+
+    <array name="leaguesName">
+        <item>English Premier League</item> <!--4328-->
+        <item>English League Championship</item> <!--4329-->
+        <item>German Bundesliga</item> <!--4331-->
+        <item>Italian Serie A</item> <!--4332-->
+        <item>French Ligue 1</item> <!--4334-->
+        <item>Spanish La Liga</item> <!--4335-->
+    </array>
+
+    <array name="leaguesId">
+        <item>"4328"</item> <!--4328-->
+        <item>"4329"</item> <!--4329-->
+        <item>"4331"</item> <!--4331-->
+        <item>"4332"</item> <!--4332-->
+        <item>"4334"</item> <!--4334-->
+        <item>"4335"</item> <!--4335-->
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="last_match">Last Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="title_activity_dummy">DummyActivity</string>
+
+</resources>
